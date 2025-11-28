@@ -1,6 +1,3 @@
-# 📁 README.md
-
-```markdown
 # 🖥️ CS Projects API
 
 A RESTful API for managing Computer Science projects built with **FastAPI** and **Google Cloud Firestore**.
@@ -213,9 +210,7 @@ Created for educational purposes - VIT Bhopal University
 ---
 
 **Author:** Harjas Partap Singh Romana | 22BSA10120 | VIT Bhopal University
-```
 
----
 
 ## 📋 Quick Reference Card
 
